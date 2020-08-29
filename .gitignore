@@ -1,0 +1,6 @@
+/*.gem
+/gems
+/scratch*
+/src/compiled_features.h
+/test.sh
+/mruby_build_config.rb.lock
