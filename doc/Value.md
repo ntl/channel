@@ -32,6 +32,8 @@ some_value.restore
 => 11
 ```
 
+For mutable values, like strings and arrays, each time a value instance is restored, a new value is created from the same binary data.
+
 Inspect the storage size of the value in bytes:
 
 ``` ruby
